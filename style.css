@@ -1,0 +1,29 @@
+body {
+  background-image: url("Images/car.jpg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+}
+
+h1 {
+  margin: 2%;
+}
+
+.helpingwords {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+}
+
+.formPlace {
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#list {
+  height: 300px;
+  width: 100%;
+}
